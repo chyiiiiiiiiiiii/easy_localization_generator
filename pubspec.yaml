@@ -1,6 +1,6 @@
 name: easy_localization_generator
 description: Generates the localization keys from an online Google Sheet or a local csv file.
-version: 0.3.4
+version: 0.3.5
 homepage: https://github.com/chyiiiiiiiiiiii/easy_localization_generator
 issue_tracker: https://github.com/chyiiiiiiiiiiii/easy_localization_generator/issues
 
@@ -10,14 +10,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  build: ^2.4.1
+  build: ^4.0.0
   build_config: ^1.1.1
-  source_gen: ^2.0.0
+  source_gen: ^4.1.1
   http: ^1.2.2
   path: ^1.9.0
   csv: ^5.0.2
   intl: ^0.19.0
-  analyzer: ^7.7.1
+  analyzer: ^8.1.1
 
 dev_dependencies:
   flutter_test:
